@@ -15,9 +15,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-zeta-sandy-68.vercel.app/api?username=xt67&show_icons=true&hide_rank=true"
+    src="https://github-readme-stats-zeta-sandy-68.vercel.app/api?username=xt67&show_icons=true&hide_rank=true&hide_border=true&card_width=800"
     width="100%"
-    height="180"
     alt="GitHub Stats"
   />
 </p>
