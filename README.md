@@ -87,6 +87,42 @@
 <br/>
 <br/>
 
-<!-- ===== PROJECTS ===== -->
+<!-- ===== SOCIAL LINKS ===== -->
 
-<!-- Projects section will be added here -->
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rayan-rahman-xt67/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/xt67">
+  <img
+    src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE"
+    alt="GitHub"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/lol_rayyann/">
+  <img
+    src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F"
+    alt="Instagram"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:rayanrahman088@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F"
+    alt="Email"
+  />
+</a>
+
+</div>
