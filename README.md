@@ -17,6 +17,7 @@
   <img
     src="https://github-readme-stats-zeta-sandy-68.vercel.app/api?username=xt67&show_icons=true&hide_rank=true"
     width="100%"
+    height="180"
     alt="GitHub Stats"
   />
 </p>
