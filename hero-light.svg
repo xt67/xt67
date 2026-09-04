@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+<defs>
+  <linearGradient id="g" x1="0" x2="1">
+    <stop offset="0" stop-color="#f8fafc"/>
+    <stop offset="1" stop-color="#e2e8f0"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#cbd5e1" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="1200" height="300" rx="18" fill="url(#g)"/>
+<rect width="1200" height="300" rx="18" fill="url(#grid)" opacity=".55"/>
+<g fill="none" stroke="#0891b2" stroke-width="2" opacity=".5">
+  <path d="M820 55h90l35 35h170"/>
+  <path d="M850 220h80l30-30h190"/>
+  <circle cx="820" cy="55" r="5" fill="#0891b2"/>
+  <circle cx="1100" cy="90" r="5" fill="#0891b2"/>
+  <circle cx="850" cy="220" r="5" fill="#0891b2"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif">
+  <text x="70" y="105" font-size="48" font-weight="700" fill="#0f172a">RAYAN RAHMAN</text>
+  <text x="72" y="148" font-size="24" fill="#0891b2" font-weight="600">ROBOTICS × ARTIFICIAL INTELLIGENCE</text>
+  <text x="72" y="190" font-size="18" fill="#475569">@student at SPPU  •  Computer Vision  •  ML  •  Embedded Systems</text>
+</g>
+<g transform="translate(1000 130)" fill="none" stroke="#7c3aed" stroke-width="5">
+  <rect x="-45" y="-38" width="90" height="76" rx="18"/>
+  <circle cx="-18" cy="-5" r="7"/>
+  <circle cx="18" cy="-5" r="7"/>
+  <path d="M-20 18h40M0-38V-60"/>
+  <circle cx="0" cy="-66" r="5" fill="#7c3aed"/>
+</g>
+</svg>
