@@ -96,3 +96,54 @@
 </div>
 
 <!-- ===== END SOCIAL BADGES ===== -->
+
+<!-- ===== FEATURED PROJECTS ===== -->
+<br/>
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Robotic Arm</h3>
+      <p>Arduino-powered robotic arm exploring servo control, motion sequencing, and embedded robotics.</p>
+      <p><b>Stack:</b> Arduino • Embedded C • Servo Motors</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖐️ Robotic Hand</h3>
+      <p>Gesture-controlled robotic hand combining glove-based finger tracking, servos, and a 3D-printed mechanical design.</p>
+      <p><b>Stack:</b> Arduino • Servo Motors • Computer Vision • 3D Design</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌫️ Pune Air Quality Sentinel</h3>
+      <p>AI-based air quality forecasting system designed to analyze environmental data and predict future AQI conditions.</p>
+      <p><b>Stack:</b> Python • Machine Learning • Pandas • Visualization</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖥️ shlama</h3>
+      <p>Local terminal AI assistant for Linux and Windows, built around locally hosted LLMs for private workflows.</p>
+      <p><b>Stack:</b> Python • Ollama • Local LLMs • CLI</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗣️ CASS</h3>
+      <p>Conversational AI SQL system that lets users interact with structured data using natural-language queries.</p>
+      <p><b>Stack:</b> Python • SQL • LLMs • Data Analytics</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧬 MedImage-Synth</h3>
+      <p>Medical image synthesis project exploring generative AI techniques for synthetic medical imagery.</p>
+      <p><b>Stack:</b> Python • Deep Learning • Computer Vision • Generative AI</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<!-- ===== END FEATURED PROJECTS ===== -->
