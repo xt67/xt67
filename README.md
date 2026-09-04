@@ -67,15 +67,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/xt67/xt67/output/snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/xt67/xt67/gh-pages/snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/xt67/xt67/output/snake-light.svg"
+    srcset="https://raw.githubusercontent.com/xt67/xt67/gh-pages/snake-light.svg"
   />
   <img
     alt="Snake eating my contributions"
-    src="https://raw.githubusercontent.com/xt67/xt67/output/snake-light.svg"
+    src="https://raw.githubusercontent.com/xt67/xt67/gh-pages/snake-light.svg"
   />
 </picture>
 
