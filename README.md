@@ -13,15 +13,15 @@
   />
 </picture>
 
+<!-- GitHub Stats -->
 <p align="center">
   <img
     src="https://github-readme-stats-zeta-sandy-68.vercel.app/api?username=xt67&show_icons=true&hide_rank=true&card_width=400"
     height="180"
-    alt="GitHub Stats"
+    alt="Rayan Rahman's GitHub Stats"
   />
-
   <img
-    src="https://github-readme-stats-zeta-sandy-68.vercel.app/api/top-langs/?username=xt67&layout=compact&card_width=400"
+    src="https://github-readme-stats-zeta-sandy-68.vercel.app/api/top-langs/?username=xt67&layout=compact&langs_count=6&card_width=400"
     height="180"
     alt="Most Used Languages"
   />
